@@ -33,4 +33,4 @@ username: 369345221014-st@rmutsb.ac.th   password: 1EQqdBY3KZkguulR
 [คลิกที่นี่เพื่อรับชมวิดีโอนำเสนอ (Google Drive)](https://drive.google.com/drive/folders/1LVfo961x9dDPgQq2G8261zQL87u7oONa?usp=sharing)
 
 ## 📄 รายงานโครงงาน
-[คลิกเพื่อดูรายงาน PDF](./report.pdf)
+[คลิกเพื่อดูรายงาน PDF](./report.pdf.pdf)
