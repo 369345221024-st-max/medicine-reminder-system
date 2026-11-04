@@ -1,0 +1,6 @@
+เปลี่ยนเป็น การแจ้งเตือนการทานยาของผู้สูงอายุ 
+
+รหัส 1EQqdBY3KZkguulR
+
+NEXT_PUBLIC_SUPABASE_URL=https://tnxarvvfjftovwbohgjq.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_wXJiE5h2HWZTYuReLjDOsQ_VDB6ORzp
